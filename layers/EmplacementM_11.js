@@ -1,0 +1,1 @@
+var json_EmplacementM_11 = {"type":"FeatureCollection","name":"EmplacementM_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-2.34938242307643,47.70537359364441]}}]}
